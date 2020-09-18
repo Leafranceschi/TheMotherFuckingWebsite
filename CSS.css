@@ -1,0 +1,26 @@
+body
+{
+	text-align: justify;
+	font-family: Arial;
+	margin: 2em auto;
+	max-width: 800px;
+	line-height: 1.4;
+}
+.flottant
+{
+	float: left;
+}
+.color
+{
+	color: rgb();
+}
+.cit
+{
+	vertical-align: top;
+	font-size: 0.7em;
+}
+.monospace
+{
+	font-family: monospace;
+	font-size: 1em;
+}

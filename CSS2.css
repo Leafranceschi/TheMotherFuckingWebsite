@@ -1,0 +1,22 @@
+.line
+{
+	font-family: monospace;
+	font-size: 18px;
+}
+.eee
+{
+	font-family: monospace;
+	font-size: 1em;
+}
+*
+{
+	opacity: 0.9;
+}
+body
+{
+	margin: 40px auto;
+	max-width: 650px;
+	padding: 0 10px;
+	line-height: 1.6;
+	font-size: 18px;
+}
